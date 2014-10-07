@@ -1,0 +1,189 @@
+div {
+border-radius: 5px;
+}
+
+#encabezado {
+z-index: 1;
+
+background-color: LightSeaGreen;
+width: 97%;
+height: 60px;
+border: 2px dotted LightSeaGreen;
+font-family: Times;
+margin-top: -20px;
+margin-bottom: 10px;
+}
+
+.izquierda {
+float: left;
+background-color: MediumAquaMarine;
+width: 20%;
+height: 380px;
+margin-top: 55px;
+margin-bottom: 10px;
+border: 2px groove white;
+}
+.izquierda1 {
+float: left;
+background-color: MediumAquaMarine;
+width: 20%;
+height: 650px;
+margin-top: 55px;
+margin-bottom: 10px;
+border: 2px groove white;
+}
+.izquierda2 {
+float: left;
+background-color: MediumAquaMarine;
+width: 20%;
+height: 750px;
+margin-top: 55px;
+margin-bottom: 10px;
+border: 2px groove white;
+}
+
+
+.derecha {
+float: right;
+background-color: rgb(240, 240, 240);
+width: 78%;
+height: 450px;
+margin-top: 55px;
+margin-bottom: 10px;
+border: 2px groove white;
+}
+.derecha1 {
+float: right;
+background-color: rgb(240, 240, 240);
+width: 79%;
+height: 650px;
+margin-top: 55px;
+margin-bottom: 10px;
+border: 2px groove white;
+}
+.derecha2 {
+float: right;
+background-color: rgb(240, 240, 240);
+width: 79%;
+height: 750px;
+margin-top: 55px;
+margin-bottom: 10px;
+border: 2px groove white;
+}
+#pie {
+margin-top: 20px;
+margin-bottom: 10px;
+clear: both;
+background-color: rgb(235, 235, 235);
+width: 100%;
+height: 60px;
+border: 2px groove white;
+font-family: Times;
+}
+
+#email {
+float: right;
+text-decoration: none;
+color: white;
+margin: 10px;
+}
+
+#email:hover {
+font-weight: bold;
+color: gray;
+}
+
+#name {
+float: left;
+font-weight: bold;
+color: rgb(230, 230, 230);
+font-size: 1.5em;
+margin: 22px 10px 10px 10px;
+}
+
+#name:hover {
+color: white;
+}
+
+.content {
+margin: 10px;
+}
+
+h4 {
+color: MediumAquaMarine;
+}
+
+#direccion {
+text-align: center;
+color: lightSkygreem;
+}
+
+span:hover {
+color: gray;
+font-weight: bold;
+}
+
+ol {
+list-style: none;
+margin: 20px 0 0 -20px;
+color: rgb(230, 230, 230);
+font-size: 1em;
+}
+
+a {
+text-decoration: none;
+color: rgb(230, 230, 230);
+}
+
+a:active {
+color: darkred;
+}
+
+#margen-top {
+margin-top: 12px;
+}
+img {
+float: right; 
+}
+
+/*SOBRE MI*/
+
+#refami{
+text-align: center;
+color: lightSkygreem;
+}
+h1 {
+color: MediumAquaMarine;
+}
+#encabezado2 {
+z-index: 1;
+position: fixed;
+background-color: LightSeaGreen;
+width: 99%;
+height: 70px;
+border: 4px dotted LightSeaGreen;
+font-family: Times;
+margin-top: -30px;
+margin-bottom: 10px;
+}
+#name2 {
+text-align: center;
+color: C1E7E3;
+
+
+
+}
+#lengu{
+text-align: center;
+color: lightSkygreem;
+}
+table{
+	align: center;
+}
+h4{
+	text-align: center;
+}
+#container{
+	 width: 200px;
+ margin: 0 auto;
+}
