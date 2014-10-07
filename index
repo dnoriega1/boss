@@ -1,0 +1,53 @@
+<!DOCTYPE html> <html>
+<head>
+    <link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+    <link href='C:\Users\Isabella\Desktop\tarea\d.jpg' rel='icon' type='image/x-icon'/>
+    <title>hoja de vida</title>
+</head>
+<body>
+    <div id="encabezado">
+        <p id="name">Dany Noriega</p>
+        <a href="eduard.alvarez@hotmail.com" target="_blank"><p id="email">ddan42@gmail.com</p></a>
+
+    </div>
+    <div class="izquierda">
+        <div class="info">
+            <ol class="">
+                <li id="margen-top"><a href="file:///C:/Users/Isabella/Desktop/tarea/sobremi.html"><span>Acerca de mi</span></a></li>
+                
+                <li id="margen-top"><a href="file:///C:/Users/Isabella/Desktop/tarea/estudio.html"><span>Estudios</span></a></li>
+                <li id="margen-top"><a href="file:///C:/Users/Isabella/Desktop/tarea/index.html"><span>Informacion Personal</span></a></li>
+               
+            </ol>   
+        </div>   
+    </div>
+    <div class="derecha">
+        <div class="content">
+        	<img src="foto1.png"></img>
+            <h4>Objetivo</h4>
+            <p>Posicionarme como Ingeniero de sistemas.</p>
+            <h4>Experiencia</h4>
+            <p>Desarrollador web, Empresa Alianza Colombo Francesa (2012 - 2014)</p>
+            <ul>
+                <li>Disene  e implemente funcionalidades para usuarios finales para Producto Lider</li>
+                <li>Escribi bibliotecas JavaScript y Ruby de terceros</li>
+               <li> Facilidad y disposicion para aprender,buenas relaciones interpersonales,responsable, creativa, organizada,capacidad de realizar trabajos duros con rapidez,interes por la actualizacion profesional,amplia experiencia en el campo de las finanzas,liderazgo y capacidad de decisiones,conocimiento en sistemas y manejo de Internet,manejo de la lengua alemana,experiencia en la area de informatica.
+            </li>
+            <li>Ingeniero de Sistemas y redes enfocado al area de trasmision de datos y manejo de redes, con conocimientos de herramientas de diseno de enlaces, monitoreo de redes, seguridad y gestion de proyectos.
+Manejo perfectamente las herramientas del office. Tambien manejo Autocad 2D y 3D.</li>
+
+            </ul>
+            <h4>Habilidades</h4>
+            <ul>
+            <li>Manejo de SQL</li>
+            <li>menejo de Java</li></ul>
+            <p>Lenguajes: <span>Java</span>, <span>Python</span>, <span>html</span> </p>
+        </div>
+    </div>
+    <div id="pie">
+        <p id="direccion">Calle 88 No 49c-52, <span>Barranquillla</span> 12345-6789 | Tel: <span>(+57) 3785331</span></p>
+    </div>
+</body>
+
+
+	</html>
