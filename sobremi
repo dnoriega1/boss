@@ -1,0 +1,72 @@
+<html>
+<head>
+ <link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+ <link href='C:\Users\Isabella\Desktop\tarea\d.jpg' rel='icon' type='image/x-icon'/>
+	<title>Sobremi</title>
+</head>
+<body>
+ <div id="encabezado2">
+        <h1 id="name2">SOBRE MI</h1>
+        
+
+    </div>
+
+ <div class="izquierda1">
+        <div class="info">
+            <ol class="">
+                <li id="margen-top"><a href="file:///C:/Users/Isabella/Desktop/tarea/sobremi.html"><span>Acerca de mi</span></a></li>
+                
+                <li id="margen-top"><a href="file:///C:/Users/Isabella/Desktop/tarea/estudio.html"><span>Estudios</span></a></li>
+                <li id="margen-top"><a href="file:///C:/Users/Isabella/Desktop/tarea/index.html"><span>Informacion Personal</span></a></li>
+               
+            </ol>   
+        </div>   
+    </div>
+    <div class="derecha1">
+        <div class="content">
+        	
+            <h1 id="refami">REFERENCIA FAMILIAR</h4>
+            <ul>
+            <p><li>Jackelin Noriega<br></li>
+            <li>Hermana<br></li>
+            <li>Ama de casa<br></li>
+             <li>Tel: 3002102594</li>
+             <br>
+             <br>
+             <li>Marcela Delgado<br></li>
+             <li>Tia<br></li>
+             <li>Abogada<br></li>
+             <li>Tel:3593652</li>
+
+             </p>
+                          </ul>
+             <h1 id="lengu">HOBBIES</h4>
+           
+           <p>
+
+          <UL><LI> LEER</LI></UL>
+           <TABLE border=1 cellspacing=0 cellpadding=2 bordercolor="666633" align="center"><TR><TH>TITULO</TH>
+           <TH>AUTOR</TH><TH>ANO</TH></TR>
+           <TR> <TD>HOBBIT</TD><TD>TOLKIEN</TD><TD>1965</TD></TR>
+           <TR> <TD>AMNISTIA vs. DERECHOS HUMANOS</TD><TD>ABAD</TD><TD>2001</TD></TR></TABLE>
+           
+           </p>
+
+            </ul>
+            <h1 id="refami">INFORMACION PERSONAL</h4>
+            <UL><LI>EDAD 25</LI>
+            <LI>SEXO  MASCULINO</LI>
+            <LI>DOMICILIO CALLE 63B No25B - 82</LI>
+            <LI>ESTADO CIVIL  SOLTERO</LI>
+            <LI>HIJOS 1 </LI></UL>
+            
+        </div>
+    </div>
+<div id="pie">
+<h4>Me puedes encontrar en
+   <a href="https://www.facebook.com/dany.noriegadelgado"> <img src="face2.png"></img></a><a href="https://twitter.com/">
+    <img src="twi.png"></img></a>
+    </h4>
+    </div>
+</body>
+</html>
